@@ -1,0 +1,21 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary checkpoint files
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Large GeoNames source data - download separately
+allCountries.txt
+allCountries.zip
+
+Week 3 data/allCountries.txt
